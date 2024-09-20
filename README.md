@@ -1,2 +1,2 @@
-![Welcome Image](<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/7MNJFsrDCJUQa05VAR" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/world-earth-mundo-7MNJFsrDCJUQa05VAR">via GIPHY</a></p>)
+![Welcome Image](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBjdjR5MWVyejN1am1waWo2aWNtajNhZWJoaXpwODMyanlmMzdxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7MNJFsrDCJUQa05VAR/giphy.gif)
 
